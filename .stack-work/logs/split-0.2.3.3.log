@@ -1,0 +1,16 @@
+Configuring split-0.2.3.3...
+clang: warning: argument unused during compilation: '-nopie' [-Wunused-command-line-argument]
+Preprocessing library for split-0.2.3.3..
+Building library for split-0.2.3.3..
+[1 of 2] Compiling Data.List.Split.Internals ( src/Data/List/Split/Internals.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/List/Split/Internals.o )
+[2 of 2] Compiling Data.List.Split  ( src/Data/List/Split.hs, .stack-work/dist/x86_64-osx/Cabal-2.2.0.1/build/Data/List/Split.o )
+Preprocessing library for split-0.2.3.3..
+Running Haddock on library for split-0.2.3.3..
+Haddock coverage:
+  91% ( 62 / 68) in 'Data.List.Split.Internals'
+  90% ( 45 / 50) in 'Data.List.Split'
+Documentation created:
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/split/index.html,
+.stack-work/dist/x86_64-osx/Cabal-2.2.0.1/doc/html/split/split.txt
+Installing library in /Users/phil/.stack/snapshots/x86_64-osx/lts-12.25/8.4.4/lib/x86_64-osx-ghc-8.4.4/split-0.2.3.3-3fFb67BrTpqAjKImK4FBjR
+Registering library for split-0.2.3.3..
